@@ -3,7 +3,7 @@ This project aims to automate malaria screening using computer aided diagnosis m
 
 The block diagram of the experiment is shown below.
 
-![image](https://user-images.githubusercontent.com/65898464/130516712-2ecbdc57-dd37-46c9-8de3-f9e618a3fced.png)
+![image](https://user-images.githubusercontent.com/65898464/130518128-8d3c604a-ba66-4083-8127-88ad9ba1f342.png)
 
 I) Pre-processing
 Texture is a feature used to partition images into ROI and classify them.
